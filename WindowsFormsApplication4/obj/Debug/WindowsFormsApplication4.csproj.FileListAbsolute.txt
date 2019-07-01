@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AngleSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AngleSharp.xml
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DataBaseCoffee.mdf
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DataBaseCoffee_log.ldf
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\DataBaseCoffee.mdf
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\DataBaseCoffee_log.ldf
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\AngleSharp.dll
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\bin\Debug\AngleSharp.xml
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\User\Desktop\автоматы\CoffeeParser\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
